@@ -53,7 +53,7 @@ stroke-opacity: 0.01;
 .h1, .h2, .h3, .h4, .body, h1, h2, h3, h4, .h5, .h6 {
     font-family: Roboto,Helvetica,Arial,sans-serif;
     font-weight: 400;
-    color: #901A1E;
+    color: #77161B;
 }
 
 .modal-header h3 {
@@ -74,7 +74,7 @@ stroke-opacity: 0.01;
 .checkbox label, .radio label, label {
     font-size: 13px;
     line-height: 1.02857143;
-    color: #901A1E;
+    color: #77161B;
     font-weight: 500;
 }
 
@@ -109,12 +109,12 @@ stroke-opacity: 0.01;
 }
 
 .checkbox input[type=checkbox]:checked+.checkbox-material .check:before, label.checkbox-inline input[type=checkbox]:checked+.checkbox-material .check:before {
-    color: #901A1E
+    color: #77161B
 }
 
 .checkbox input[type=checkbox]:checked+.checkbox-material .check, label.checkbox-inline input[type=checkbox]:checked+.checkbox-material .check {
-    color: #901A1E;
-    border-color: #901A1E;
+    color: #77161B;
+    border-color: #77161B;
 }
 
 /* QGIS server legend image*/
@@ -128,35 +128,35 @@ img {
 
 .panel-default>.panel-heading .badge {
     color: #f5f5f5;
-    background-color: #901A1E;
+    background-color: #77161B;
 }
 
 #side-panel ul li.active .material-icons {
-    background-color: #901A1E;
+    background-color: #77161B;
     color: #FFD800;
 }
 
 .nav-tabs {
-    background: #901A1E;
+    background: #77161B;
 }
 
 .navbar, .navbar.navbar-default {
-    background-color: #901A1E;
+    background-color: #77161B;
     color: #FFD800;
 }
 
 a, a:focus, a:hover {
-    color: #901A1E;
+    color: #77161B;
 }
 
 .btn-group-raised .btn, .btn-group-raised .btn.btn-default, .btn-group-raised .input-group-btn .btn, .btn-group-raised .input-group-btn .btn.btn-default, .btn.btn-fab, .btn.btn-fab.btn-default, .btn.btn-raised, .btn.btn-raised.btn-default, .input-group-btn .btn.btn-fab, .input-group-btn .btn.btn-fab.btn-default, .input-group-btn .btn.btn-raised, .input-group-btn .btn.btn-raised.btn-default {
     background-color: #fff;
-    color: #901A1E;
+    color: #77161B;
 }
 
 .slider .noUi-handle, .slider.slider-default .noUi-handle {
-    background-color: #901A1E;
-    border-color: #901A1E;
+    background-color: #77161B;
+    border-color: #77161B;
 }
 
 /* lukke kryds i standard vidi for ekstrafunktioner*/
@@ -176,7 +176,7 @@ element.style {
 /* Info boks */
 .popup-title {
     font-size: 15px;
-    color: #901A1E;
+    color: #77161B;
 	border-color: #ccc;
 	border-width: thin;
 	border-style: none none solid none;
