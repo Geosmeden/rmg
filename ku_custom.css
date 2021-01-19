@@ -15,9 +15,17 @@ stroke-opacity: 0.01;
     background-color: #d7eef4;
 }
 
+.ELEVATOR {
+    background-color: #ffccaa;
+}
+
+.BRAND {
+    background-color: #ffd5d5;
+}
+
 /* baggrundsfarve alarmtabel */
 .fixed-table-body {
-    background-color: #bbb;
+    background-color: #fff;
 }
 
 /* Padding legend */
