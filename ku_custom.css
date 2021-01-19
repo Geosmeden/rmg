@@ -11,7 +11,9 @@
 stroke-opacity: 0.01;
 }
 
-
+.FEJL {
+    background-color: #d7eef4;
+}
 
 /* baggrundsfarve alarmtabel */
 .fixed-table-body {
