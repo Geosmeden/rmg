@@ -11,6 +11,20 @@
 stroke-opacity: 0.01;
 }
 
+.1-POLLFEJL {
+    background-color: #e5f9ff;
+    animation:blinkingText 1s 10;
+}
+
+@keyframes blinkingText{
+	0%{		color: #000;	
+  font-weight: bold;}  
+	50%{	color: #FF0000;
+  font-weight: bold;}
+	100%{	color: #000;	
+  font-weight: bold;}
+}
+
 .FEJL {
     background-color: #e5f9ff;
 }
