@@ -13,7 +13,7 @@ stroke-opacity: 0.01;
 
 .AFEJL {
     background-color: #e5f9ff;
-    animation:blinkingText 1s 10;
+    animation:blinkingText 1s 20;
 }
 
 .FEJL {
@@ -22,7 +22,7 @@ stroke-opacity: 0.01;
 
 .AELEVATOR {
     background-color: #ffe7d6;
-    animation:blinkingText 1s 10;
+    animation:blinkingText 1s 20;
 }
 
 .ELEVATOR {
@@ -31,7 +31,7 @@ stroke-opacity: 0.01;
 
 .ABRAND {
     background-color: #ffe5e5;
-    animation:blinkingText 1s 10;
+    animation:blinkingText 1s 20;
 }
 
 .BRAND {
@@ -39,11 +39,11 @@ stroke-opacity: 0.01;
 }
 
 @keyframes blinkingText{
-	0%{		background-color: #000;	
+	0%{	background-color: #e5f9ff;	
   }  
 	50%{	background-color: #FF0000;
   }
-	100%{	background-color: #000;	
+	100%{	background-color: #e5f9ff;	
   }
 }
 
