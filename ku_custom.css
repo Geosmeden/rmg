@@ -41,7 +41,7 @@ stroke-opacity: 0.01;
 @keyframes blinkingText{
 	0%{	background-color: #e5f9ff;	
   }  
-	50%{	background-color: #FF0000;
+	50%{	background-color: #FF4F57;
   }
 	100%{	background-color: #e5f9ff;	
   }
