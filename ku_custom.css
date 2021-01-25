@@ -39,9 +39,9 @@ stroke-opacity: 0.01;
     background-color: #ffe5e5;
 }
 
-.fixed-table-container tbody .selected td, .well {
-    background-color: #f44336;
-}
+/* .fixed-table-container tbody .selected td, .well {*/
+/*     background-color: #f44336;*/
+/* }*/
 
 @keyframes blinkingfejl{
 	0%{	background-color: #e5f9ff;	
