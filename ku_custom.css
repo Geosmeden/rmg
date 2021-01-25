@@ -11,6 +11,8 @@
 stroke-opacity: 0.01;
 }
 
+tr:hover { background: yellow; }
+
 .AFEJL {
     background-color: #e5f9ff;
     animation:blinkingfejl 1s 20;
