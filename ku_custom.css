@@ -11,7 +11,6 @@
 stroke-opacity: 0.01;
 }
 
-tr:hover { background: yellow; }
 
 .AFEJL {
     background-color: #e5f9ff;
@@ -38,6 +37,10 @@ tr:hover { background: yellow; }
 
 .BRAND {
     background-color: #ffe5e5;
+}
+
+.fixed-table-container tbody .selected td, .well {
+    background-color: #f44336;
 }
 
 @keyframes blinkingfejl{
