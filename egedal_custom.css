@@ -133,7 +133,7 @@ img {
 
 #side-panel ul li.active .material-icons {
     background-color: #00674B;
-    color: #FFD800;
+    color: #FFFFFF;
 }
 
 .nav-tabs {
@@ -142,7 +142,7 @@ img {
 
 .navbar, .navbar.navbar-default {
     background-color: #00674B;
-    color: #FFD800;
+    color: #FFFFFF;
 }
 
 a, a:focus, a:hover {
