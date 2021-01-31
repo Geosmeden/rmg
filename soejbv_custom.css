@@ -11,7 +11,12 @@
 stroke-opacity: 0.01;
 }
 
-
+/* styling gruppepile */
+.btn-group-xs .btn, .btn-group-xs .input-group-btn .btn, .btn.btn-xs, .input-group-btn .btn.btn-xs {
+    padding: 4px 10px;
+    font-size: 14px;
+    background-color: lightgrey;
+}
 
 /* baggrundsfarve alarmtabel */
 .fixed-table-body {
