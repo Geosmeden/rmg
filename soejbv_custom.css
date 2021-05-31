@@ -11,6 +11,10 @@
 stroke-opacity: 0.01;
 }
 
+button.btn.btn-succes.btn-xs.js-set-online {
+    display: none;
+}
+
 button.btn.btn-secondary.btn-xs.js-refresh {
     display: none;
 }
