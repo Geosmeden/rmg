@@ -11,17 +11,7 @@ r/* kun for embed */
 stroke-opacity: 0.01;
 }
 
-.btn:not(.btn-raised).btn-success, .input-group-btn .btn:not(.btn-raised).btn-success {
-    display: none;
-}
 
-.btn:not(.btn-raised).btn-refresh, .input-group-btn .btn:not(.btn-secondary).btn-refresh {
-    display: none;
-}
-
-.btn:not(.btn-raised).btn-danger, .input-group-btn .btn:not(.btn-raised).btn-danger {
-    display: none;
-}
 
 
 /* styling gruppepile */
