@@ -11,7 +11,7 @@
 stroke-opacity: 0.01;
 }
 
-.btn.btn-secondary.btn-xs.js-refresh {
+button.btn.btn-secondary.btn-xs.js-refresh {
     display: none;
 }
 
