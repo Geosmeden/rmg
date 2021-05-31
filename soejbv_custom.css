@@ -11,6 +11,15 @@
 stroke-opacity: 0.01;
 }
 
+.btn.btn-secondary.btn-xs.js-refresh {
+    display: none;
+}
+
+.btn:not(.btn-raised).btn-danger, .input-group-btn .btn:not(.btn-raised).btn-danger {
+    display: none;
+}
+
+
 /* styling gruppepile */
 .btn-group-xs .btn, .btn-group-xs .input-group-btn .btn, .btn.btn-xs, .input-group-btn .btn.btn-xs {
     padding: 4px 10px;
