@@ -11,15 +11,15 @@ r/* kun for embed */
 stroke-opacity: 0.01;
 }
 
-button.btn.btn-danger.btn-xs.js-set-offline {
+.btn.btn-danger.btn-xs.js-set-offline {
     display: none;
 }
 
-button.btn.btn-success.btn-xs.js-set-online {
+.btn.btn-success.btn-xs.js-set-online {
     display: none;
 }
 
-button.btn.btn-secondary.btn-xs.js-refresh {
+.btn.btn-secondary.btn-xs.js-refresh {
     display: none;
 }
 
