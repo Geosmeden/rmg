@@ -15,7 +15,7 @@ stroke-opacity: 0.01;
     display: none;
 }
 
-.btn:not(.btn-raised).btn-secondary, .input-group-btn .btn:not(.btn-raised).btn-refresh {
+.btn:not(.btn-raised).btn-refresh, .input-group-btn .btn:not(.btn-secondary).btn-refresh {
     display: none;
 }
 
