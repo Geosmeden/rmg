@@ -11,11 +11,11 @@
 stroke-opacity: 0.01;
 }
 
-button.btn.btn-succes.btn-xs.js-set-online {
+.btn:not(.btn-raised).btn-success, .input-group-btn .btn:not(.btn-raised).btn-success {
     display: none;
 }
 
-button.btn.btn-secondary.btn-xs.js-refresh {
+.btn:not(.btn-raised).btn-success, .input-group-btn .btn:not(.btn-raised).btn-refresh {
     display: none;
 }
 
