@@ -11,15 +11,8 @@ r/* kun for embed */
 stroke-opacity: 0.3;
 }
 
-btn.btn-danger .btn-xs .js-set-offline {
-    display: none;
-}
 
-btn.btn-success .btn-xs .js-set-online {
-    display: none;
-}
-
-btn.btn-secondary .btn-xs .js-refresh {
+#layer-tools-offline {
     display: none;
 }
 
