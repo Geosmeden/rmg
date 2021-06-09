@@ -11,7 +11,9 @@
 stroke-opacity: 0.01;
 }
 
-
+#layer-tools-offline {
+    display: none;
+}
 
 /* baggrundsfarve alarmtabel */
 .fixed-table-body {
