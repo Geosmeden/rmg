@@ -8,10 +8,13 @@
 /* skjul markering for valgt objekt */
 .leaflet-interactive {
     fill-opacity: 0.01;
-stroke-opacity: 0.01;
+stroke-opacity: 0.3;
 }
 
 
+#layer-tools-offline {
+    display: none;
+}
 
 /* baggrundsfarve alarmtabel */
 .fixed-table-body {
