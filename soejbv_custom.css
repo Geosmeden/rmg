@@ -16,10 +16,10 @@ stroke-opacity: 0.3;
 
 /* logo i printhoved */
 #print-header-logo {
-    background-image: url('https://raw.githubusercontent.com/Geosmeden/rmg/main/logo/soejbv_logo.jpg'};
+    background-image: url('https://raw.githubusercontent.com/Geosmeden/rmg/main/logo/logosojbv.png'};
     background-repeat: no-repeat;
-    background-position: 10% 10%;
-    background-size: 20%;
+    background-position: 50% 50%;
+    background-size: 80%;
 }
 
 
