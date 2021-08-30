@@ -13,9 +13,13 @@
 stroke-opacity: 0.3;
 }
 
-
-
-
+/* logo i printhoved */
+#print-header-logo {
+    background-image: url('https://raw.githubusercontent.com/Geosmeden/rmg/main/logo/logosojbv.png'};
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-size: 80%;
+}
 
 
 #layer-tools-offline {
