@@ -13,7 +13,13 @@ r/* kun for embed */
 stroke-opacity: 0.3;
 }
 
-
+/* logo i printhoved */
+#print-header-logo {
+    background-image: url('https://raw.githubusercontent.com/Geosmeden/rmg/main/logo/taarnbybv_logo.png');
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-size: 70%;
+}
 
 
 #layer-tools-offline {
