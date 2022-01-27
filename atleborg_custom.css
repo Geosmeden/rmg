@@ -5,10 +5,10 @@
 }
 
 /* Leaflet styling */
-/* skjul markering for valgt objekt */
+/* vis markering for af hensyn til refil */
 .leaflet-interactive {
-    fill-opacity: 0.01;
-stroke-opacity: 0.3;
+    fill-opacity: 0.05;
+stroke-opacity: 1;
 }
 
 /* logo i printhoved */
