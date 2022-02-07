@@ -4,6 +4,10 @@
     padding: 15px;
 }
 
+#side-panel ul li:nth-child(1) {
+  display: none;
+}
+
 #side-panel ul li:nth-child(6) {
   display: none;
 }
@@ -13,6 +17,22 @@
 }
 
 #side-panel ul li:nth-child(8) {
+  display: none;
+}
+
+#side-panel ul li:nth-child(9) {
+  display: none;
+}
+
+#side-panel ul li:nth-child(10) {
+  display: none;
+}
+
+#side-panel ul li:nth-child(11) {
+  display: none;
+}
+
+#side-panel ul li:nth-child(12) {
   display: none;
 }
 
