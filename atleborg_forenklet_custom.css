@@ -16,6 +16,14 @@
   display: none;
 }
 
+.leaflet-touch .leaflet-bar a {
+    display: none;
+}
+
+.leaflet-touch .leaflet-bar, .leaflet-touch .leaflet-control-layers {
+    display: none;
+}
+
 /* Leaflet styling */
 /* vis markering for af hensyn til refil */
 .leaflet-interactive {
