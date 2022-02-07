@@ -4,7 +4,7 @@
     padding: 15px;
 }
 
-.#side-panel ul li:nth-child(6n) {
+.side-panel ul li:nth-child(6n) {
   display: none;
 }
 
