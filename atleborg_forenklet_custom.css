@@ -4,6 +4,12 @@
     padding: 15px;
 }
 
+.#side-panel ul li:nth-child(6n) {
+  display: none;
+}
+
+
+
 /* Leaflet styling */
 /* vis markering for af hensyn til refil */
 .leaflet-interactive {
