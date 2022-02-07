@@ -4,8 +4,8 @@
     padding: 15px;
 }
 
-#side-panel ul li:nth-child(6n) {
-  display: none;
+#side-panel ul li {
+  padding: 25px 0;
 }
 
 
