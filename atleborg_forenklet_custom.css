@@ -10,6 +10,10 @@
     height: 34px!important;
 }
 
+span.js-set-all-layer-offline-mode-container {
+    display: none;
+}
+
 #btn-reset{
     display: none;
 }
