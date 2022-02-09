@@ -10,6 +10,14 @@
     height: 34px!important;
 }
 
+.btn-reset{
+    display: none;
+}
+
+#about-modal{
+    display: none;
+}
+
 span#layer-tools-search {
     display: none;
 }
