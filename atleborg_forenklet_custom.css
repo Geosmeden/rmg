@@ -4,6 +4,12 @@
     padding: 15px;
 }
 
+.gc2-add-feature, .gc2-session-lock, .popup-delete-btn, .popup-edit-btn {
+    display: inline;
+    font-size: 27px;
+    height: 30px!important;
+}
+
 span#layer-tools-search {
     display: none;
 }
