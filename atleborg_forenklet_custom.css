@@ -4,6 +4,26 @@
     padding: 15px;
 }
 
+span#layer-tools-search {
+    display: none;
+}
+
+span#layer-tools-opacity {
+    display: none;
+}
+
+span#layer-tools-labels {
+    display: none;
+}
+
+span#layer-tools-table {
+    display: none;
+}
+
+span#layer-tools-load {
+    display: none;
+}
+
 #side-panel ul li:nth-child(1) {
   display: none;
 }
