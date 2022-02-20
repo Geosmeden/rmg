@@ -42,9 +42,9 @@ span#layer-tools-load {
     display: none;
 }
 
-span#layer-tools-filters {
-    display: none;
-}
+/* span#layer-tools-filters {*/
+/*     display: none;*/
+/* }*/
 
 #side-panel ul li:nth-child(1) {
   display: none;
