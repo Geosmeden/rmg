@@ -13,6 +13,10 @@ r/* kun for embed */
 stroke-opacity: 0.3;
 }
 
+.leaflet-tooltip{
+        font-size: 11px;
+    }
+
 /* logo i printhoved */
 #print-header-logo {
     background-image: url('https://raw.githubusercontent.com/Geosmeden/rmg/main/logo/taarnbybv_logo.png');
