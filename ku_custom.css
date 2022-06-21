@@ -11,6 +11,10 @@
 stroke-opacity: 0.01;
 }
 
+.leaflet-tooltip{
+        font-size: 11px;
+    }
+
 
 .ATYVERI {
     background-color: #e5f9ff;
