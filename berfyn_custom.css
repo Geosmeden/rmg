@@ -13,7 +13,9 @@ r/* kun for embed */
 stroke-opacity: 0.3;
 }
 
-
+.leaflet-tooltip{
+        font-size: 11px;
+    }
 
 
 #layer-tools-offline {
