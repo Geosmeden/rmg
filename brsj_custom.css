@@ -13,6 +13,10 @@
 stroke-opacity: 0.3;
 }
 
+.leaflet-tooltip{
+        font-size: 11px;
+    }
+
 /* logo i printhoved */
 #print-header-logo {
     background-image: url('https://raw.githubusercontent.com/Geosmeden/rmg/main/logo/brsj_logo.png');
