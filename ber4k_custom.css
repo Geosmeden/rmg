@@ -11,7 +11,9 @@
 stroke-opacity: 0.3;
 }
 
-
+.leaflet-tooltip{
+        font-size: 12px;
+    }
 
 /* baggrundsfarve alarmtabel */
 .fixed-table-body {
