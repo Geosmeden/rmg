@@ -7,8 +7,8 @@
 /* Leaflet styling */
 /* skjul markering for valgt objekt */
 .leaflet-interactive {
-    fill-opacity: 0.01;
-stroke-opacity: 0.3;
+    fill-opacity: 0.1;
+stroke-opacity: 0.8;
 }
 
 .leaflet-tooltip{
