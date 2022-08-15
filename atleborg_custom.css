@@ -7,7 +7,7 @@
 /* Leaflet styling */
 /* vis markering for af hensyn til refil */
 .leaflet-interactive {
-    fill-opacity: 0.95;
+    fill-opacity: 0.15;
 stroke-opacity: 1;
 }
 
