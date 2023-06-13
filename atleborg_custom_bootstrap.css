@@ -1,3 +1,9 @@
 :root {
   --bs-primary: #6f42c1;
 }
+
+.bi::before, [class*=" bi-"]::before, [class^=bi-]::before {
+    font-weight: 600!important;
+    font-size: 18px;
+    /* color: #e9e074;
+}
