@@ -18,6 +18,10 @@
     /* color: #e9e074;
 }
   
+.custom-popup .leaflet-popup-content-wrapper {
+    border-radius: 10px!important;
+}
+  
 /* skjul kontroller i embed kortet */
 .mapcontrols-history-backward {
     display: none;
