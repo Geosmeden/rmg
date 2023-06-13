@@ -1,5 +1,7 @@
 :root {
   --bs-primary: #6f42c1;
+  --bs-blue: #6f42c1;
+  --bs-link-color: #e9e074;
 }
 
 .bi::before, [class*=" bi-"]::before, [class^=bi-]::before {
