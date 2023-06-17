@@ -9,7 +9,32 @@
   --bs-nav-link-disabled-color: #D52243;
   --bs-nav-link-color: #D52243;
   --bs-navbar-color: #D52243;
+  --bs-nav-pills-link-active-color: #fff;
+  --bs-nav-pills-link-active-bg: #fd0d51;
 }
+
+.btn.btn-primary.sign-in-btn {
+  color: #68681c;
+  background-color: blanchedalmond;
+}
+
+.btn:hover {
+  color: var(--bs-btn-hover-color);
+  background-color: #4bd70b;
+  border-color: #ca5b0a;
+}
+
+.btn {
+  color: var(--bs-btn-hover-color);
+  background-color: #000;
+  border-color: #ca5b0a;
+}
+
+#offcanvasLayerControlBtn {
+  color: aquamarine;
+  background-color: brown;
+}
+
 
 .bi::before, [class*=" bi-"]::before, [class^=bi-]::before {
     font-weight: 800!important;
