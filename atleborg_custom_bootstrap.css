@@ -24,15 +24,21 @@
 }
 
 .btn:hover {
-   color:  #FFDF51;
-   background-color: #143280;
-   border-color: #143280;
+   color:  #FFDF51 !important;
+   background-color: #143280 !important;
+   border-color: #143280 !important;
  } 
 
 .btn-check {
   color: #FFDF51;
   background-color: #143280;
   border-color: #143280;
+}
+
+.btn-check + .btn:hover {
+  color: #D52243;
+  background-color:#D52243;
+  border-color: #D52243;
 }
 
 .btn {
