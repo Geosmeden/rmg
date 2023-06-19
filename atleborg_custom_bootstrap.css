@@ -19,14 +19,14 @@
 }
 
 .btn:hover {
-  color: var(--bs-btn-hover-color);
+  color: #FFD800;
   background-color: #143280;
   border-color: #143280;
 }
 
 .btn {
-  color: var(--bs-btn-hover-color);
-  background-color: #000;
+  color: #FFD800;
+  background-color: #143255;
   border-color: #143255;
 }
 
