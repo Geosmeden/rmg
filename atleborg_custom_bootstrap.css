@@ -115,7 +115,21 @@ h4 {
 }
   
 .custom-popup .leaflet-popup-content-wrapper {
-    border-radius: 10px!important;
+    background: #fff!important;
+    font-size: 10px!important;
+    line-height: 20px!important;
+    border-radius: 8px!important;
+}
+  
+.leaflet-popup-close-button {
+    top: 0px!important;
+    right: 0px!important;
+    color: #ac1b1b!important;
+    background: #fde1e1!important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 4px!important;
 }
   
 /* skjul kontroller i embed kortet */
