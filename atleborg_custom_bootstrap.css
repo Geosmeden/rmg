@@ -33,6 +33,9 @@
     --bs-btn-active-color: #FFDF51;
     --bs-btn-active-bg: #375614;
     --bs-btn-active-border-color: #143280;
+    --bs-btn-color: #FFDF51;
+    --bs-btn-bg: #143255;
+    --bs-btn-border-color: #143255;
  } 
 
 /* sekundære værktøjs knapper aktiv farve */
@@ -40,6 +43,9 @@
   --bs-btn-active-color: #FFDF51;
   --bs-btn-active-bg: #375614;
   --bs-btn-active-border-color: #143280;
+  --bs-btn-color: #FFDF51;
+  --bs-btn-bg: #143255;
+  --bs-btn-border-color: #143255;
  } 
 
 /* lagvælger valgt farve */
@@ -73,11 +79,11 @@
   border-color: #D52243;
 }
 
-.btn {
-  color: #FFD800;
-  background-color: #143255;
-  border-color: #143255;
-}
+/*.btn {*/
+/*  color: #FFD800;*/
+/*  background-color: #143255;*/
+/*  border-color: #143255;*/
+/*}*/
 
 #offcanvasLayerControlBtn {
   color: #FFD800;
