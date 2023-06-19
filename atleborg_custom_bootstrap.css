@@ -21,6 +21,10 @@
   --bs-btn-active-border-color: #D52243;
 }
 
+/* Mulighed for transparant menu */
+.offcanvas.show:not(.hiding), .offcanvas.showing {
+    opacity: 0.9;
+}
 
 /* login knap farve */
 .btn.btn-primary.sign-in-btn {
