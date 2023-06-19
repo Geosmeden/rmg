@@ -23,16 +23,16 @@
   background-color: #143255;
 }
 
-/* .btn:hover { */
-/*   color: #FFD800; */
-/*   background-color: #143280; */
-/*   border-color: #143280; */
-/* } */
+.btn:hover {
+   color:  #FFDF51;
+   background-color: #143280;
+   border-color: #143280;
+ } 
 
-.btn-check + .btn:hover {
-  color: var(--bs-btn-color);
-  background-color: var(--bs-btn-bg);
-  border-color: var(--bs-btn-border-color);
+.btn-check {
+  color: #FFDF51;
+  background-color: #143280;
+  border-color: #143280;
 }
 
 .btn {
