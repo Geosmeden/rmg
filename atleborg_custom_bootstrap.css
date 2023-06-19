@@ -98,8 +98,8 @@
 /* style til valgt kanp med signturforklainr på kort*/
 .btn.disabled, .btn:disabled, fieldset:disabled .btn {
   color: #FFD800;
-  background-color: #143280;
-  border-color: #143280;
+  background-color: #375614;
+  border-color: #375614;
   opacity: 1.0;
 }
 
