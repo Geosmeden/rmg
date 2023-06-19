@@ -115,10 +115,29 @@
     font-weight: 400!important;
     font-size: 16px;
 }
+
+/* Tabel baggrundsfarve */
+.bootstrap-table .fixed-table-container .table td, .bootstrap-table .fixed-table-container .table th {
+    background-color: lightgrey;
+}
   
-h4 {
-  font-style: normal;
-  color: black;
+/* info boks attibut værdi tekst */
+.leaflet-popup-content-wrapper p {
+    font-size: 14px;
+    font-weight: 700;
+}
+
+/* info boks attribut overskrift tekst */
+.leaflet-popup-content-wrapper h4 {
+    color: #a8a8a8;
+    font-size: 12px;
+    font-weight: 700;
+    margin-bottom: 0;
+}
+
+/* info boks attribut boks lagnavn */
+.popup-title {
+    font-size: 16px;
 }
   
 .custom-popup .leaflet-popup-content-wrapper {
