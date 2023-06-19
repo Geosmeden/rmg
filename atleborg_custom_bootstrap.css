@@ -23,6 +23,12 @@
   background-color: #143255;
 }
 
+.btn-outline-primary {
+    --bs-btn-active-color: #FFDF51;
+    --bs-btn-active-bg: #143280;
+    --bs-btn-active-border-color: #143280;
+ } 
+
 .btn:hover {
    color:  #FFDF51 !important;
    background-color: #143280 !important;
