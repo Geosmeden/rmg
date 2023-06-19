@@ -60,6 +60,10 @@
     border-color: #143255;
 }
 
+.js-opacity-slider form-range {
+  color: #143255;
+}
+
 /* Måske  ikke i brug */
 .btn-check:checked+.btn, .btn.active, .btn.show, .btn:first-child:active, :not(.btn-check)+.btn:active {
     color: var(--bs-btn-active-color);
