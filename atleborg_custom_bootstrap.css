@@ -16,6 +16,9 @@
   --bs-navbar-color: #D52243;
   --bs-nav-pills-link-active-color: #fff;
   --bs-nav-pills-link-active-bg: #fd0d51;
+  --bs-btn-active-color: #D52243
+  --bs-btn-active-bg: #D52243
+  --bs-btn-active-border-color: #D52243
 }
 
 .btn.btn-primary.sign-in-btn {
@@ -28,6 +31,18 @@
     --bs-btn-active-bg: #143280;
     --bs-btn-active-border-color: #143280;
  } 
+
+.btn-outline-secondary {
+  --bs-btn-active-color: #FFDF51;
+  --bs-btn-active-bg: #143280;
+  --bs-btn-active-border-color: #143280;
+ } 
+
+.btn-check:checked+.btn, .btn.active, .btn.show, .btn:first-child:active, :not(.btn-check)+.btn:active {
+    color: var(--bs-btn-active-color);
+    background-color: var(--bs-btn-active-bg);
+    border-color: var(--bs-btn-active-border-color);
+}
 
 .btn:hover {
    color:  #FFDF51 !important;
