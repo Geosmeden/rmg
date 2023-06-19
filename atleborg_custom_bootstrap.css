@@ -1,8 +1,8 @@
 :root {
   /* --bs-primary: #6f42c1; */
   /* --bs-blue: #6f42c1; */
-  --bs-link-color: #14326D;
-  --bs-btn-bg: #14326D;
+  --bs-link-color: #143255;
+  --bs-btn-bg: #143255;
   --bs-nav-link-disabled-color: #D52243;
   --bs-link-hover-color: #D52243;
   --bs-nav-link-hover-color: #D52243;
@@ -14,25 +14,25 @@
 }
 
 .btn.btn-primary.sign-in-btn {
-  color: #68681c;
-  background-color: #14326D;
+  color: #FFD800;
+  background-color: #143255;
 }
 
 .btn:hover {
   color: var(--bs-btn-hover-color);
-  background-color: #4bd70b;
-  border-color: #ca5b0a;
+  background-color: #143280;
+  border-color: #143280;
 }
 
 .btn {
   color: var(--bs-btn-hover-color);
   background-color: #000;
-  border-color: #ca5b0a;
+  border-color: #143255;
 }
 
 #offcanvasLayerControlBtn {
-  color: aquamarine;
-  background-color: 14326D;
+  color: #FFD800;
+  background-color: 143255;
 }
 
 
