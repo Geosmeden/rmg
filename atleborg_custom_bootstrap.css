@@ -35,6 +35,11 @@
   background-color: 143255;
 }
 
+.nav-pills {
+  --bs-nav-pills-border-radius: 0.375rem;
+  --bs-nav-pills-link-active-color: #FFD800;
+  --bs-nav-pills-link-active-bg: #143255;
+}
 
 .bi::before, [class*=" bi-"]::before, [class^=bi-]::before {
     font-weight: 800!important;
