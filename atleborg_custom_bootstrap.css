@@ -95,6 +95,14 @@
 /*  border-color: #143255;*/
 /*}*/
 
+/* style til valgt kanp med signturforklainr på kort*/
+.btn.disabled, .btn:disabled, fieldset:disabled .btn {
+  color: #FFD800;
+  background-color: #143280;
+  border-color: #143280;
+  opacity: 1.0;
+}
+
 /*Værktøjsknapper*/
 .nav-pills {
   --bs-nav-pills-border-radius: 0.375rem;
