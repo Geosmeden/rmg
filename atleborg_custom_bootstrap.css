@@ -38,6 +38,12 @@
   background-color: #143255;
 }
 
+/* lav print knap farve */
+.btn btn-primary start-print-btn {
+  color: #FFD800;
+  background-color: #143255;
+}
+
 /* primære værktøjs knapper aktiv farve */
 .btn-outline-primary {
     --bs-btn-active-color: #FFDF51;
