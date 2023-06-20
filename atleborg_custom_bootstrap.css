@@ -39,9 +39,15 @@
 }
 
 /* lav print knap farve */
-.btn btn-primary start-print-btn {
+.btn.btn-primary.start-print-btn, .btn.btn-primary.get-print-btn, .btn btn-primary.dropdown-toggle.get-print-btn {
   color: #FFD800;
   background-color: #143255;
+}
+
+/* gem projekt knap farve */
+button.btn.btn-primary.btn-sm {
+    background-color: #143255;
+    color: #FFD800;
 }
 
 /* primære værktøjs knapper aktiv farve */
@@ -105,12 +111,17 @@
 /*  border-color: #143255;*/
 /*}*/
 
-/* style til valgt kanp med signturforklainr på kort*/
+/* style til valgt kanp med signturforklainr på kort
 .btn.disabled, .btn:disabled, fieldset:disabled .btn {
   color: #FFD800;
   background-color: #375614;
   border-color: #375614;
   opacity: 1.0;
+}*/
+
+/* skjul disabled knap f.eks. vis signatur på kort, og vis lag aktioner*/
+.btn:disabled {
+  display: none
 }
 
 /*Værktøjsknapper*/
