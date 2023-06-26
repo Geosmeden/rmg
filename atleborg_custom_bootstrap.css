@@ -141,7 +141,7 @@ button.btn.btn-primary.btn-sm {
 
 /* Tabel baggrundsfarve */
 .bootstrap-table .fixed-table-container .table td, .bootstrap-table .fixed-table-container .table th {
-    background-color: lightgrey;
+    background-color:  #bbb;
 }
   
 /* info boks attibut værdi tekst */
@@ -207,9 +207,9 @@ button.btn.btn-primary.btn-sm {
 
 /* Gl. version styling  kun for embed */
 
-.panel-body {
+/*.panel-body {
     padding: 15px;
-}
+}*/
 
 /* Leaflet styling */
 /* vis markering for af hensyn til refil */
@@ -282,11 +282,11 @@ stroke-opacity: 1;
     font-size: 16px;
 }
 
-.body {
+/*.body {
     font-size: 11px;
     line-height: 1.02857143;
     color: #000000;
-}
+}*/
 
 .list-group-item {
     padding: 1px 1px;
