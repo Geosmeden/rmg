@@ -448,7 +448,7 @@ element.style {
 }
 
 .form-control {
-    height: 22px;
-    padding: 1px 0;
-    margin-bottom: 7px;
+    height: 38px;
+   /* padding: 1px 0;
+    margin-bottom: 7px;*/
 }
