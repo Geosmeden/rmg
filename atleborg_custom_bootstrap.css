@@ -52,6 +52,17 @@ button.btn.btn-primary.btn-sm {
     color: #FFD800;
 }
 
+/* Farve på accordion knap */
+.accordion-button:not(.collapsed) {
+    color: #FFD800;
+    background-color: #143255;
+}
+
+/* Vis ikke overskrift under accordion knap i crossmultiselect */
+.popup-title {
+    display: none;
+}
+
 /* primære værktøjs knapper aktiv farve */
 .btn-outline-primary {
     --bs-btn-active-color: #FFDF51;
