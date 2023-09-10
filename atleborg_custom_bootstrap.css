@@ -199,11 +199,11 @@ button.btn.btn-primary.btn-sm {
 }
   
 /* skjul kontroller i embed kortet */
-.mapcontrols-history-backward {
+.history-back-button {
     display: none;
 }
 
-.mapcontrols-history-forward {
+.history-forward-button {
    display: none;
 }
 
