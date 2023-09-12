@@ -73,11 +73,7 @@ button.btn.btn-primary.btn-sm {
 }
 
 
-.btn:hover {
-   color:  #FFDF51 !important;
-   background-color: #143280 !important;
-   border-color: #143280 !important;
- } 
+
 
 .btn-check {
   color: #FFDF51;
@@ -85,25 +81,8 @@ button.btn.btn-primary.btn-sm {
   border-color: #143280;
 }
 
-.btn-check + .btn:hover {
-  color: #D52243;
-  background-color:#D52243;
-  border-color: #D52243;
-}
 
-/*.btn {*/
-/*  color: #FFD800;*/
-/*  background-color: #143255;*/
-/*  border-color: #143255;*/
-/*}*/
 
-/* style til valgt kanp med signturforklainr på kort
-.btn.disabled, .btn:disabled, fieldset:disabled .btn {
-  color: #FFD800;
-  background-color: #375614;
-  border-color: #375614;
-  opacity: 1.0;
-}*/
 
 /* skjul disabled knap f.eks. vis signatur på kort, og vis lag aktioner*/
 .btn:disabled {
