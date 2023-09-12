@@ -2,51 +2,6 @@
 /* Ny bootstrap styling */
 
 
-
-/* Tabel baggrundsfarve og tekststørrelse */
-.bootstrap-table .fixed-table-container .table td, .bootstrap-table .fixed-table-container .table th {
-    background-color:  #bbb;
-    font-size: 1.2em;
-}
-  
-/* info boks attibut værdi tekst */
-.leaflet-popup-content-wrapper p {
-    font-size: 14px;
-    font-weight: 700;
-}
-
-/* info boks attribut overskrift tekst */
-.leaflet-popup-content-wrapper h4 {
-    color: #a8a8a8;
-    font-size: 12px;
-    font-weight: 700;
-    margin-bottom: 0;
-}
-
-/* info boks attribut boks lagnavn */
-.popup-title {
-    font-size: 16px;
-}
-  
-.custom-popup .leaflet-popup-content-wrapper {
-    background: #fff!important;
-    font-size: 10px!important;
-    line-height: 20px!important;
-    border-radius: 8px!important;
-}
-  
-
-
-
-
-/* logo i printhoved */
-#print-header-logo {
-    background-image: url('https://raw.githubusercontent.com/Geosmeden/rmg/main/logo/nvjbv_logo.png');
-    background-repeat: no-repeat;
-    background-position: 50% 50%;
-    background-size: 70%;
-}
-
 #layer-tools-offline {
     display: none;
 }
