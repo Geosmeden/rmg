@@ -1,32 +1,6 @@
 
 /* Ny bootstrap styling */
-:root {
-  /* --bs-primary: #6f42c1; */
-  /* --bs-blue: #6f42c1; */
-  --bs-link-color: #143255;
-  --bs-btn-bg: #143255;
-  --bs-btn-color: #FFD800;
-  --bs-btn-bg: #143255;
-  --bs-btn-border-color: #143255;
-  --bs-btn-hover-bg: #143280;
-  --bs-btn-hover-border-color: #143280;
-  --bs-nav-link-disabled-color: #D52243;
-  --bs-link-hover-color: #143280;
-  --bs-nav-link-hover-color: #D52243;
-  --bs-nav-link-disabled-color: #D52243;
-  --bs-nav-link-color: #D52243;
-  --bs-navbar-color: #D52243;
-  --bs-nav-pills-link-active-color: #fff;
-  --bs-nav-pills-link-active-bg: #fd0d51;
-  --bs-btn-active-color: #D52243;
-  --bs-btn-active-bg: #D52243;
-  --bs-btn-active-border-color: #D52243;
-}
 
-/* Mulighed for transparant menu */
-.offcanvas.show:not(.hiding), .offcanvas.showing {
-    opacity: 0.9;
-}
 
 /* Hvid baggrund til X i slet søgeresultat */
 #searchclear {
@@ -98,12 +72,6 @@ button.btn.btn-primary.btn-sm {
   color: #143255;
 }
 
-/* Måske  ikke i brug */
-.btn-check:checked+.btn, .btn.active, .btn.show, .btn:first-child:active, :not(.btn-check)+.btn:active {
-    color: var(--bs-btn-active-color);
-    background-color: var(--bs-btn-active-bg);
-    border-color: var(--bs-btn-active-border-color);
-}
 
 .btn:hover {
    color:  #FFDF51 !important;
