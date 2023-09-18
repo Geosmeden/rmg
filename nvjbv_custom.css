@@ -38,6 +38,12 @@
   background-color: #143255;
 }
 
+/* sekundær knap farve */
+.btn-outline-secondary {
+  color: #FFD800;
+  background-color: #143255;
+}
+
 /* Menu knap farve */
 #offcanvasLayerControlBtn {
   color: #FFD800;
