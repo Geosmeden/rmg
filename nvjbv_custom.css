@@ -38,10 +38,17 @@
   background-color: #143255;
 }
 
+.btn-primary {
+    --bs-btn-color: #FFD800;
+    --bs-btn-bg: #143255;
+}
+
 /* sekundær knap farve */
 .btn-outline-secondary {
   color: #FFD800;
   background-color: #143255;
+  --bs-btn-active-color: #375614;
+  --bs-btn-active-bg: #FFD800;
 }
 
 /* Menu knap farve */
