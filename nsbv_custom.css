@@ -22,6 +22,11 @@
   --bs-btn-active-border-color: #D52243;
 }
 
+/* Fjen linjeskft i søgefelt */
+.input-group {
+  flex-wrap: nowrap; 
+}
+
 /* Mulighed for transparant menu */
 .offcanvas.show:not(.hiding), .offcanvas.showing {
     opacity: 0.9;
