@@ -38,6 +38,11 @@
   background-color: #143255;
 }
 
+/* Fjen linjeskft i søgefelt */
+.input-group {
+  flex-wrap: nowrap; 
+}
+
 .btn-primary {
     --bs-btn-color: #FFD800;
     --bs-btn-bg: #143255;
