@@ -27,6 +27,26 @@
     opacity: 0.9;
 }
 
+
+/* Fjen linjeskft i søgefelt */
+.input-group {
+  flex-wrap: nowrap; 
+}
+
+.btn-primary {
+    --bs-btn-color: #FFD800;
+    --bs-btn-bg: #143255;
+}
+
+/* sekundær knap farve */
+.btn-outline-secondary {
+  color: #FFD800;
+  background-color: #143255;
+  --bs-btn-active-color: #375614;
+  --bs-btn-active-bg: #FFD800;
+}
+
+
 /* Hvid baggrund til X i slet søgeresultat */
 #searchclear {
     background: #fff;
