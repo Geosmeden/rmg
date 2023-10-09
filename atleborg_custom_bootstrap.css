@@ -1,7 +1,7 @@
 
 /* Ny bootstrap styling */
 
-@media (min-width: 800px) { /* Modify the pixel value as needed */
+#media (min-width: 800px) { /* Modify the pixel value as needed */
   .navbar-expand-sm .navbar-toggler {
     display: none; /* Hide the burger menu at the custom breakpoint */
   }
