@@ -1,14 +1,21 @@
 
 /* Ny bootstrap styling */
 
-.media (min-width: 800px) { /* Modify the pixel value as needed */
+@media (min-width: 900px)
+.navbar-expand-sm .navbar-nav {
+    flex-direction: row;
+}
+
+
+
+/* .media (min-width: 800px) { /* Modify the pixel value as needed */
   .navbar-expand-sm .navbar-toggler {
     display: none; /* Hide the burger menu at the custom breakpoint */
   }
   .navbar-expand-sm .navbar-collapse {
     display: flex !important; /* Ensure the navigation links are visible */
   }
-}
+}*/
 
 
 
