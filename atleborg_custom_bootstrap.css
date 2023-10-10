@@ -2,7 +2,7 @@
 /* Ny bootstrap styling */
 
 @media (min-width: 900px)
-.navbar-expand-sm .navbar-nav {
+.navbar-expand-sm .navbar-expand-md .navbar-toggler .navbar-nav {
     flex-direction: row;
 }
 
