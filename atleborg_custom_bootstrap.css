@@ -10,6 +10,12 @@
 display: block !important;
 }
 
+#collapse.collapse.in
+        {
+            position: fixed !important;
+            right: 0 !important;
+            background-color: #222222 !important;
+        }
 
 
 /* .media (min-width: 800px) { *//* Modify the pixel value as needed */
