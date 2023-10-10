@@ -12,5 +12,8 @@
     }
 
 
-
+@media (min-width: 800px)
+.navbar-expand-sm .navbar-toggler, .navbar-expand-sm .offcanvas .offcanvas-header {
+    display: none;
+}
 
