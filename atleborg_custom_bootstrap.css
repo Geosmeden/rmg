@@ -1,7 +1,7 @@
 
 /* Ny bootstrap styling */
 
-@media screen and (min-width: 576px) and (max-width: 1000px)
+@media screen and (min-width: 800px) and (max-width: 1000px)
 .navbar-expand-md .navbar-toggler .navbar-collapse.collapse.in .navbar-nav {
     display: none !important;
     flex-direction: row;
