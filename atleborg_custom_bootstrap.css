@@ -1,8 +1,9 @@
 
 /* Ny bootstrap styling */
 
-@media (min-width: 900px)
+@media (min-width: 900px) !important;
 .navbar-expand-sm .navbar-expand-md .navbar-toggler .navbar-nav {
+    display: none !important;
     flex-direction: row;
 }
 
