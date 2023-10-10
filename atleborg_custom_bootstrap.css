@@ -1,12 +1,6 @@
 
 /* Ny bootstrap styling */
 
-@media (min-width: 800px)
-.navbar-expand-sm .navbar-toggler, .navbar-expand-sm .offcanvas .offcanvas-header {
-    display: none;
-}
-
-
  @media (min-width: 768px) {
       .navbar-expand-sm .navbar-toggler .navbar-nav .collapsed {
         display: none; /* Hide the burger menu at the custom breakpoint */
@@ -15,6 +9,11 @@
         display: flex !important; /* Ensure the navigation links are visible */
       }
     }
+
+@media (min-width: 800px)
+.navbar-expand-sm .navbar-toggler, .navbar-expand-sm .offcanvas .offcanvas-header {
+    display: none;
+}
 
 
 
