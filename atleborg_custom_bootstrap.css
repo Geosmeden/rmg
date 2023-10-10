@@ -1,37 +1,15 @@
 
 /* Ny bootstrap styling */
 
-@media screen and (min-width: 800px) and (max-width: 1000px)
-.navbar-expand-md .navbar-toggler .navbar-collapse.collapse.in .navbar-nav {
-    display: none !important;
-    flex-direction: row;
-}
-.navbar-collapse.collapse.in {
-display: block !important;
-}
 
-#collapse.collapse.in
-        {
-            position: fixed !important;
-            right: 0 !important;
-            background-color: #222222 !important;
-        }
-
-
-/* .media (min-width: 800px) { *//* Modify the pixel value as needed */
- /*  .navbar-expand-sm .navbar-toggler {
-    display: none;*/ /* Hide the burger menu at the custom breakpoint */
- /*  }
-  .navbar-expand-sm .navbar-collapse {
-    display: flex !important;*/ /* Ensure the navigation links are visible */
-/*   }
-}*/
-
-
-
-#layer-tools-offline {
-    display: none;
-}
+ @media (min-width: 768px) {
+      .navbar-expand-sm .navbar-toggler .navbar-nav .collapsed {
+        display: none; /* Hide the burger menu at the custom breakpoint */
+      }
+      .navbar-expand-sm .navbar-collapse {
+        display: flex !important; /* Ensure the navigation links are visible */
+      }
+    }
 
 
 
