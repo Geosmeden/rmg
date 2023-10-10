@@ -1,6 +1,11 @@
 
 /* Ny bootstrap styling */
 
+@media (min-width: 800px)
+.navbar-expand-sm .navbar-toggler, .navbar-expand-sm .offcanvas .offcanvas-header {
+    display: none;
+}
+
 
  @media (min-width: 768px) {
       .navbar-expand-sm .navbar-toggler .navbar-nav .collapsed {
@@ -12,8 +17,4 @@
     }
 
 
-@media (min-width: 800px)
-.navbar-expand-sm .navbar-toggler, .navbar-expand-sm .offcanvas .offcanvas-header {
-    display: none;
-}
 
