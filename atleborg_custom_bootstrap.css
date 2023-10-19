@@ -1,74 +1,15 @@
 
 /* Ny bootstrap styling */
 
- @media screen and (min-width: 768px) {
-      .navbar-expand-md .navbar-toggler .navbar-nav .collapsed {
-        display: none; /* Hide the burger menu at the custom breakpoint */
-      }
-      .navbar-expand-sm .navbar-collapse {
-        display: flex !important; /* Ensure the navigation links are visible */
-      }
-    }
+
 
 
 @media screen and (min-width:633px) and (max-width:1072px) {
-   .collapse {
+   .navbar-expand-sm .collapse {
       display: none !important;
     }
-}
-
-@media (max-width: 887.98px) {
-
-    .navbar-expand-my>.container,
-    .navbar-expand-my>.container-fluid,
-    .navbar-expand-my>.container-sm,
-    .navbar-expand-my>.container-md,
-    .navbar-expand-my>.container-lg,
-    .navbar-expand-my>.container-xl {
-        padding-right: 0;
-        padding-left: 0
-    }
-}
-
-@media (min-width: 888px) {
-    .navbar-expand-my {
-        flex-flow: row nowrap;
-        justify-content: flex-start
-    }
-
-    .navbar-expand-my .navbar-nav {
-        flex-direction: row
-    }
-
-    .navbar-expand-my .navbar-nav .dropdown-menu {
-        position: absolute
-    }
-
-    .navbar-expand-my .navbar-nav .nav-link {
-        padding-right: .5rem;
-        padding-left: .5rem
-    }
-
-    .navbar-expand-my>.container,
-    .navbar-expand-my>.container-fluid,
-    .navbar-expand-my>.container-sm,
-    .navbar-expand-my>.container-md,
-    .navbar-expand-my>.container-lg,
-    .navbar-expand-my>.container-xl {
-        flex-wrap: nowrap
-    }
-
-    .navbar-expand-my .navbar-nav-scroll {
-        overflow: visible
-    }
-
-    .navbar-expand-my .navbar-collapse {
-        display: flex !important;
-        flex-basis: auto
-    }
-
-    .navbar-expand-my .navbar-toggler {
-        display: none
+   .navbar-expand-sm .navbar-collapse {
+        display: flex !important; /* Ensure the navigation links are visible */
     }
 }
 
