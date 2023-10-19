@@ -17,5 +17,58 @@
     }
 }
 
+@media (max-width: 887.98px) {
 
+    .navbar-expand-my>.container,
+    .navbar-expand-my>.container-fluid,
+    .navbar-expand-my>.container-sm,
+    .navbar-expand-my>.container-md,
+    .navbar-expand-my>.container-lg,
+    .navbar-expand-my>.container-xl {
+        padding-right: 0;
+        padding-left: 0
+    }
+}
+
+@media (min-width: 888px) {
+    .navbar-expand-my {
+        flex-flow: row nowrap;
+        justify-content: flex-start
+    }
+
+    .navbar-expand-my .navbar-nav {
+        flex-direction: row
+    }
+
+    .navbar-expand-my .navbar-nav .dropdown-menu {
+        position: absolute
+    }
+
+    .navbar-expand-my .navbar-nav .nav-link {
+        padding-right: .5rem;
+        padding-left: .5rem
+    }
+
+    .navbar-expand-my>.container,
+    .navbar-expand-my>.container-fluid,
+    .navbar-expand-my>.container-sm,
+    .navbar-expand-my>.container-md,
+    .navbar-expand-my>.container-lg,
+    .navbar-expand-my>.container-xl {
+        flex-wrap: nowrap
+    }
+
+    .navbar-expand-my .navbar-nav-scroll {
+        overflow: visible
+    }
+
+    .navbar-expand-my .navbar-collapse {
+        display: flex !important;
+        flex-basis: auto
+    }
+
+    .navbar-expand-my .navbar-toggler {
+        display: none
+    }
+}
 
