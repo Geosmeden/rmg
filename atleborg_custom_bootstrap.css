@@ -1,8 +1,8 @@
 
 /* Ny bootstrap styling */
 
- @media (min-width: 768px) {
-      .navbar-expand-sm .navbar-toggler .navbar-nav .collapsed {
+ @media screen and (min-width: 768px) {
+      .navbar-expand-md .navbar-toggler .navbar-nav .collapsed {
         display: none; /* Hide the burger menu at the custom breakpoint */
       }
       .navbar-expand-sm .navbar-collapse {
@@ -10,9 +10,11 @@
       }
     }
 
-@media (min-width: 800px)
-.navbar-expand-sm .navbar-toggler, .navbar-expand-sm .offcanvas .offcanvas-header {
-    display: none;
+
+@media screen and (min-width:633px) and (max-width:1072px) {
+   .collapse {
+      display: none !important;
+    }
 }
 
 
