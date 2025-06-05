@@ -124,7 +124,7 @@ stroke-opacity: 1;
 }
 
 /* ændrestørrelse på mulig knækpunkter */
-.leaflet-middle-icon {
+.leaflet-marker-icon leaflet-div-icon leaflet-middle-icon leaflet-zoom-animated leaflet-interactive leaflet-marker-draggable {
   width: 15px;
   height: 15px;
 }
