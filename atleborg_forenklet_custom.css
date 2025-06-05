@@ -123,7 +123,13 @@ span#layer-tools-load {
 stroke-opacity: 1;
 }
 
-/* Fjen linjeskft i søgefelt */
+/* ændrestørrelse på mulig knækpunkter */
+.leaflet-middle-icon {
+  width: 15px;
+  height: 15px;
+}
+
+/* Fjern linjeskft i søgefelt */
 .input-group {
   flex-wrap: nowrap; 
 }
